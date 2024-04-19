@@ -70,13 +70,13 @@
 }
 
 .classA {
-	color: LightGreen ;
+	color: #002244;
 }
 .classB {
-	color: green ;
+	color: #034694 ;
 }
 .classC {
-	color: olive
+	color: #1488CC
 }
 
 #flat .title {
@@ -120,7 +120,7 @@
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/YanaKravchenko1/yanka/main/list.jpg");
+ background-image: url("https://raw.githubusercontent.com/YarosLav1820/html/main/море1.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -135,7 +135,7 @@
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/YanaKravchenko1/yanka/main/sea.jpg");
+ background-image: url("https://raw.githubusercontent.com/YarosLav1820/html/main/небо.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -150,7 +150,7 @@
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://raw.githubusercontent.com/YanaKravchenko1/yanka/main/human.png");
+ background-image: url("https://raw.githubusercontent.com/YarosLav1820/html/main/цветы.jpg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -160,19 +160,19 @@
 }
 
 #flat .line-break1 {
- background: linear-gradient(60deg, #90EE90, #3CB371, #228B22, #006400);
+ background: linear-gradient(60deg, #002244, #3457D5);
  width: 100%;
  margin: 0 auto;
 }
 
 #flat .line-break2 {
- background: linear-gradient(60deg, #008000, #2E8B57, #66CDAA, #008B8B);
+ background: linear-gradient(60deg, #034694, #0CAFFF);
  width: 100%;
  margin: 0 auto;
 }
 
 #flat .line-break3 {
- background: linear-gradient(60deg, #808000, #7FFFD4, #98FB98, #9ACD32);
+ background: linear-gradient(60deg, #1488CC, #2B32B2);
  width: 100%;
  margin: 0 auto;
 }
