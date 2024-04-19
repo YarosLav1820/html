@@ -4,7 +4,7 @@ var slideHeight;
 var sliderUlWidth;
 
 $(function() {
- getRssFeed("https://lenta.ru/rss/news", mapFeed);
+ getRssFeed("https://www.pipes.digital/feed/K9P4w09D?", mapFeed);
 
  $('.left-arrow').on('click', function () {
   moveLeft();
